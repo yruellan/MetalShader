@@ -3,3 +3,6 @@ build/*
 test/*
 
 **/.DS_Store
+examples
+metal-cmake/**
+metal-cmake2/**
